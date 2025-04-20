@@ -1,12 +1,22 @@
-# React + Vite
+# React CRUD App - User Management
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple **React CRUD application** for managing a list of users. It allows you to add, edit, and delete users with just a name and email address. The UI is clean and intuitive, perfect for learning the basics of React state management and component-based architecture.
 
-Currently, two official plugins are available:
+## 🖼️ Preview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![App Screenshot](./913f9c79-2af8-42a2-84b1-4b5f918f37e2.png)
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Add new users
+- Edit existing users
+- Delete users
+- Reusable form for both adding and editing
+- Simple and clean Material UI
+
+## 🛠️ Tech Stack
+
+- React (with Hooks)
+- HTML & CSS
+- JavaScript
+
