@@ -4,7 +4,8 @@ This is a simple **React CRUD application** for managing a list of users. It all
 
 ## 🖼️ Preview
 
-![App Screenshot](./913f9c79-2af8-42a2-84b1-4b5f918f37e2.png)
+![image](https://github.com/user-attachments/assets/a1415d3b-b0ec-457a-88c1-924989d0e96f)
+
 
 ## ✨ Features
 
